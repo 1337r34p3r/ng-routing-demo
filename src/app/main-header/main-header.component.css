@@ -1,0 +1,7 @@
+header{
+    display: block;
+    background: linear-gradient(90deg, limegreen, darkcyan);
+    padding: 1em;
+    margin: 0;
+    color: white;
+}
