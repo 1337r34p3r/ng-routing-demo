@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+"<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:urn="urn:mid:offerforMilEdge">
+      <soapenv:Header/>
+      <soapenv:Body>
+      <urn:fetchCityOfferDetails>
+      <urn:sessiontoken>admin/neolane$541</urn:sessiontoken>
+      <urn:offerCity>Hyderabad</urn:offerCity>
+      <urn:custName>Patricia Jones</urn:custName>
+      <urn:custEmail>pj97073@gmail.com</urn:custEmail>
+      </urn:fetchCityOfferDetails>
+      </soapenv:Body></soapenv:Envelope>"
